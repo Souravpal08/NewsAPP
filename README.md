@@ -1,7 +1,7 @@
 # NewsAPP
 It is a news application
 
-Welcome to NewsApp, a simple and intuitive news application designed and implemented using HTML, CSS, and JavaScript. This app allows users to stay updated with the latest news from various sources in a clean and user-friendly interface.
+Welcome to  Reporting 24x7 NewsApp, a simple and intuitive news application designed and implemented using HTML, CSS, and JavaScript. This app allows users to stay updated with the latest news from various sources in a clean and user-friendly interface.
 
 # Features 
 News Categories: Users can explore news from different categories such as Technology, Sports, Entertainment, Business, and more.
